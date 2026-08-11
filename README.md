@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0794-valid-tic-tac-toe-state](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0794-valid-tic-tac-toe-state) |
+## Matrix
+|  |
+| ------- |
+| [0794-valid-tic-tac-toe-state](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0794-valid-tic-tac-toe-state) |
 <!---LeetCode Topics End-->
