@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-valid-tic-tac-toe-state](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0794-valid-tic-tac-toe-state) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/2073-time-needed-to-buy-tickets) |
 ## Matrix
 |  |
 | ------- |
@@ -30,8 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0933-number-of-recent-calls) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
