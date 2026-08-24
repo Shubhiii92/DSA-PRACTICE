@@ -1,51 +1,41 @@
 class Solution {
-
     public List<String> letterCombinations(String digits) {
+        List<String> ans = new ArrayList<>();
 
-        List<String> result = new ArrayList<>();
-
-        // if there are no digits, there are no combinations
-        if (digits.length() == 0) {
-            return result;
+        if (digits == null || digits.length() == 0) {
+            return ans;
         }
 
-        // letters for each number on the phone
-        String[] letters = {
+        String[] map = {
             "", "", "abc", "def", "ghi",
             "jkl", "mno", "pqrs", "tuv", "wxyz"
         };
 
-        // start finding the combinations
-        backtrack(digits, 0, "", result, letters);
+        solve(digits, 0, new StringBuilder(), ans, map);
 
-        return result;
+        return ans;
     }
 
-    // this function builds the answer one character at a time
-    private void backtrack(String digits, int index, String current,
-                            List<String> result, String[] letters) {
+    private void solve(String digits, int index, StringBuilder str,
+                       List<String> ans, String[] map) {
 
-        // if we used all the digits, we have one complete combination
+        // reached the end, so we found one answer
         if (index == digits.length()) {
-            result.add(current);
+            ans.add(str.toString());
             return;
         }
 
-        // get the letters for the current digit
-        int digit = digits.charAt(index) - '0';
-        String possibleLetters = letters[digit];
+        // convert the character digit into an integer
+        int num = digits.charAt(index) - '0';
 
-        // try each letter for this digit
-        for (int i = 0; i < possibleLetters.length(); i++) {
+        // try all the letters for this number
+        for (char c : map[num].toCharArray()) {
+            str.append(c);
 
-            // add the letter and move to the next digit
-            backtrack(
-                digits,
-                index + 1,
-                current + possibleLetters.charAt(i),
-                result,
-                letters
-            );
+            solve(digits, index + 1, str, ans, map);
+
+            // remove the last character before trying the next one
+            str.deleteCharAt(str.length() - 1);
         }
     }
 }
