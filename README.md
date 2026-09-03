@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0794-valid-tic-tac-toe-state](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0794-valid-tic-tac-toe-state) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/2073-time-needed-to-buy-tickets) |
 ## Matrix
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
