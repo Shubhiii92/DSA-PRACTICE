@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
+| [0219-contains-duplicate-ii](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0794-valid-tic-tac-toe-state](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0794-valid-tic-tac-toe-state) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/2073-time-needed-to-buy-tickets) |
 ## Matrix
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0219-contains-duplicate-ii](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
