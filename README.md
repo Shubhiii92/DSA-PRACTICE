@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shubhiii92/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
